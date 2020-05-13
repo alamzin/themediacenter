@@ -1,5 +1,9 @@
 # Библиотека журналиста
 
+## Стоящие сайты
+
+- [Редполитики](http://rdpk.ru/) (от «Ведомостей» до стандартов дизайна)
+
 ## Стоящие репозитории без определенного порядка
 
 - [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
